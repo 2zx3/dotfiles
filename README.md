@@ -26,7 +26,7 @@ The install commands might be different depending on the distro
 type this in your terminal
 
 ```
-git clone https://github.com/2zx3/dotfiles/glava
+git clone https://github.com/2zx3/dotfiles/config/glava
 ```
 ```
 git clone https://github.com/2zx3/dotfiles/glavabackground
